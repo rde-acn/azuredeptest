@@ -10,7 +10,7 @@
 
 ## 📋 AssetStatus
 <!-- RDE_ASSET_STATUS:START -->
-stage-exploring
+stage-proven
 <!-- END: RDE Asset Status -->
 
 ## 🗂️ AssetCategory
@@ -98,7 +98,7 @@ na
 
 ## 👤 CreatedBy
 <!-- CREATED_BY:START -->
-tes
+rev
 <!-- END: Created By -->
 
 ⚙️ Installation
@@ -116,10 +116,10 @@ npm install @rreinvent/rde
 |----------------------------|--------|-----------------|
 | Technical Accuracy         | 5 / 5  | ⭐⭐⭐⭐⭐          |
 | Security & Compliance      | 3 / 5  | ⭐⭐⭐☆☆          |
-| Adherence to Standards     | 3 / 5  | ⭐⭐⭐☆☆          |
+| Adherence to Standards     | 1 / 5  | ⭐☆☆☆☆          |
 | Code Quality / Readability | 4 / 5  | ⭐⭐⭐⭐☆          |
 | Documentation Completeness | 2 / 5  | ⭐⭐☆☆☆          |
-| Reusability / Scalability  | 1 / 5  | ⭐☆☆☆☆          |
+| Reusability / Scalability  | 5 / 5  | ⭐⭐⭐⭐⭐          |
 
 ## 🔄 ReviewDecision
 
